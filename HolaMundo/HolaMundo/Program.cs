@@ -10,7 +10,10 @@ namespace HolaMundo
     {
         static void Main(string[] args)
         {
-          
+
+            Console.WriteLine("Hello WOrd");
+            Console.ReadLine();
+
 
 
         }
